@@ -1,1 +1,1 @@
-
+# In this project, I used the RandomClassifier algorithm to train a dataset to see if it can accurately predict if a patient has heart disease or not. My model was able to predict with an accuracy of 89%.
